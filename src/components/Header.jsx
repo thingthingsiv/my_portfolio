@@ -12,7 +12,7 @@ const Header = () => {
         md:grid-cols-[1fr,3fr,1fr]">
             <h1>
                 <a href="/" className="logo">
-                <img src='images/logo.svg'
+                <img src='images/logo2.png'
                 width={40}
                 height={40}
                  alt='Siv Thingthing'/>

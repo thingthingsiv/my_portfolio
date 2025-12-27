@@ -18,7 +18,7 @@ const Hero = () => {
         <div>
           <div className="flex items-center gap-3">
             <figure className="img-box w-9 h-9 rounded-lg">
-              <img src="images/avatar.jpg" 
+              <img src="images/logo2.png" 
               width={40}
               height={40}
               alt="protait" 
@@ -36,7 +36,7 @@ const Hero = () => {
 
           </div>
           <h2 className="headline-1 max-w-[15ch] sm:max-w-w[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">
-             I am a QA Engineer &  Frontend Developer
+             I am a Automate QA Engineer
           </h2>
           <div className="flex items-center gap-3">
             <ButtonPrimary 
@@ -53,12 +53,12 @@ const Hero = () => {
         </div>
 
         <div className="hidden lg:block">
-          <figure className="w-full max-w-[480px] ml-auto rounded-[60px] overflow-hidden">
-            <img src="images/me.png" 
-            width={656}
-            height={800}
+          <figure className="w-full max-w-[4000px] ml-auto rounded-[30px] overflow-hidden">
+            <img src="images/sivthingthing.png" 
+            width={400}
+            height={400}
             alt="sivthingthing"
-            className="w-full" />
+            className="w-full h-auto" />
 
           </figure>
           

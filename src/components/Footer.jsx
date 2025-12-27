@@ -106,14 +106,14 @@ const Footer = () => {
                 className=""
                 >
                     <img 
-                    src="images/logo.svg"
-                    width={40}
-                    height={40} 
+                    src="images/logo2.png"
+                    width={80}
+                    height={50} 
                     alt="Logo" />
 
                 </a>
                 <p className="text-zinc-500 text-sm">
-                    &copy; 2024 <span className="text-zinc-200">sivthingthing</span>
+                    &copy; 2026 <span className="text-zinc-200">sivthingthing</span>
                 </p>
             </div>
         </div>
