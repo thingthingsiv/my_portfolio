@@ -36,10 +36,10 @@ const Qualification = () => {
           </div>
   
           <div className="qualification-box flex flex-col justify-between p-4 ring-1 ring-gray-200 rounded-xl">
-            <img src="images/kataloncert.png" alt="SQL" className="mb-3" />
+            <img src="images/katalon_cert.png" alt="SQL" className="mb-3" />
             <div>
-              <h3 className="text-xl font-semibold mb-3">Katalon Certificate Program</h3>
-              <p className="text-gray-700">Katalon automation testing with Groovy scripting</p>
+              <h3 className="text-xl font-semibold mb-3">Professional Katalon Certificate</h3>
+              <p className="text-gray-700">Katalon automation testing with Groovy/Java scripting</p>
             </div>
           </div>
   
@@ -47,7 +47,7 @@ const Qualification = () => {
             <img src="images/ASEAN school collaboration.jpeg" alt="school collaboration" className="mb-3" />
             <div>
               <h3 className="text-xl font-semibold mb-3">Asian School Collaboration</h3>
-              <p className="text-gray-700">A 21st-century skill collaboratßion project with Lao student</p>
+              <p className="text-gray-700">A 21st-century skill collaboration project with Lao student</p>
             </div>
           </div>
         </div>

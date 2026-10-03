@@ -54,7 +54,7 @@ const Hero = () => {
 
         <div className="hidden lg:block">
           <figure className="w-full max-w-[4000px] ml-auto rounded-[30px] overflow-hidden">
-            <img src="images/sivthingthing.png" 
+            <img src="images/portofolio_image.png" 
             width={400}
             height={400}
             alt="sivthingthing"

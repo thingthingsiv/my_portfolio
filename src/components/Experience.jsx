@@ -15,11 +15,11 @@ const Experience = () => {
             <p className="font-bold text-l mb-5">Wing Bank</p>
             <div className="text-zinc-400">
               <ul className="list-disc list-inside">
-                <li>Developed and maintained automated test scripts using Katalon Studio (Java/Groovy)</li>
-                <li>Built and executed mobile automation for iOS and Android</li>
-                <li>Collaborated with Scrum team and developers</li>
-                <li>Executed test scripts in production environment</li>
-                <li>Utilized Jira and Bitbucket for tracking and version control</li>
+                <li>Developed and maintained automated test scripts for Wing Bank mobile (iOS and Android) and web applications using Katalon Studio, Appium, and XCUITest; earned Katalon Professional Certification</li>
+                <li>Reviewed and approved team automation code in GitLab before deployment, ensuring code quality and adherence to best practices</li>
+                <li>Conducted API testing with Karate to validate backend service integration and mobile-to-API communication</li>
+                <li>Managed test execution on cloud-based devices and published TestOps reports to provide visibility into coverage metrics</li>
+                <li>Collaborated with Scrum teams and developers to improve test coverage and product quality</li>
               </ul>
             </div>
           </div>
